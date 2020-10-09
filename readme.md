@@ -23,7 +23,7 @@ Example repository with **integration tests** can be found in [laravel-chunk-upl
 **1. Install via composer**
 
 ```
-composer require pion/laravel-chunk-upload
+composer require jackmartin/laravel-chunk-upload
 ```
 
 **2. Publish the config (Optional)**
